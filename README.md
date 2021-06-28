@@ -14,6 +14,7 @@ Graphical representation of genomic variations from SARS-CoV-2 using public data
 
 Provide a tool for a robust analysis of SARS-CoV-2 mutations, microsatellite sequences, and analyzed protein sequences from structural and nonstructural viral proteins.
 
+#### Analysis
 ![image-000](https://user-images.githubusercontent.com/40121093/123680446-56a92700-d80e-11eb-8175-1c787b934c39.png)
 
 Figure 1. Proteome representation from SARS-CoV-2 using Python. The identification of the ORFs allowed us to evaluate their function in the genome. For example, finding reading frames with a regulatory function or in-frame internal ORFs within existing ORFs generating truncations at the N-terminus, forming a new polypeptide [11]. Dots in the x-axis represent AUG within the full viral genome. Dots in the y axis represent stop codons variants (UAG, UAA, UGA) from the SARS-CoV-2 genome. The figure shows the genomic location of putative sequences coding for theoretical open reading frames (ORFs). A pattern of horizontal dots produced a line. Dotted lines represent a single start codon and multiple stop codons producing viral polypeptides such as ORF1ab. Lines indicate that the SARS-CoV-2 viral genome could produce frameshifts.
