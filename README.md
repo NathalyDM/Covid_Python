@@ -9,7 +9,9 @@ Finally, 14 of the microsatellites found using Python scripting in the SARS-Cov 
 
 #### Objectives
 Implement a toolbox for a quick analysis of sequencing data from SARS-CoV-2 genomes using python.
+
 Graphical representation of genomic variations from SARS-CoV-2 using public databases.
+
 Provide a tool for a robust analysis of SARS-CoV-2 mutations, microsatellite sequences, and analyzed protein sequences from structural and nonstructural viral proteins.
 
 ![image-000](https://user-images.githubusercontent.com/40121093/123680446-56a92700-d80e-11eb-8175-1c787b934c39.png)
